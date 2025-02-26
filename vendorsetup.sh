@@ -1,0 +1,2 @@
+add_lunch_combo omni_m1note-userdebug
+add_lunch_combo omni_m1note-eng
