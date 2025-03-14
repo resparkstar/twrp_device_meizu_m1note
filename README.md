@@ -8,5 +8,5 @@
 # 
 ro.actionable_compatible_property.enabled=true
 #
-ro.product.first_api_level=23
+ro.product.first_api_level=22
 ```
