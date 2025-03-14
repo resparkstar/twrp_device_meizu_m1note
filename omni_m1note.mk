@@ -10,9 +10,9 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 PRODUCT_PACKAGES += \
 
-charger_res_images \
+# charger_res_images \
 
-charger
+# charger
 
 ## Device identifier. This must come after all inclusions
 
