@@ -82,3 +82,15 @@ TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
+BOARD_HAS_FLIPPED_SCREEN := true
+TW_EXTRA_LANGUAGES := true
+
+#cp bootable/recovery/gui/theme/extra-languages/languages/zh_CN.xml bootable/recovery/gui/theme/common/languages/cn.xml
+
+TW_DEFAULT_LANGUAGE := cn
+# Storages
+BOARD_HAS_NO_MISC_PARTITION := true
+TW_INTERNAL_STORAGE_PATH := "/data/media"
+TW_INTERNAL_STORAGE_MOUNT_POINT := "data"
+TW_FLASH_FROM_STORAGE := true
+RECOVERY_SDCARD_ON_DATA := true
